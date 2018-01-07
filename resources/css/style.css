@@ -4,7 +4,7 @@ html{
   background-color: black;
   text-align: center;
 }
-.header{
+h2{
   font-size: 50px;
   color: white;
 
@@ -17,12 +17,18 @@ a{
   color: aquamarine;
   font-size: 16px;
 }
-.header2{
+h3{
   font-weight: 300;
   font-size: 42px;
   color: white;
+  align: center;
+
 }
-.p3{
+h1,
+h5{
   color: gray;
   font-size: 21px;
+}
+h5{
+  text-align: right;
 }
